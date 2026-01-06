@@ -476,26 +476,6 @@ docker run -d -p 8000:8000 -e GROQ_API_KEY=your_key ai-text-api
 * Groq API has rate limits - check your quota
 * For production, consider adding authentication and rate limiting
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🙋 Support
-
-For issues or questions:
-
-* Open an issue on GitHub
-* Check the API documentation at `/docs`
-* Review Groq API documentation
-
 ## 🎓 Assignment Completion
 
 This project fulfills all requirements:
